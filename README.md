@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Markus.
-- 👀 I’m interested in process automation, quality assurance and requirements engineering.
+- 👀 I’m interested in automation, quality assurance, cybersecurity and requirements engineering.
 - 🌱 I’m currently learning Robot Framework.
-- 💞️ I’m looking to collaborate on projects as requirements engineer, test analyst or test manager.
+- 💞️ I’m looking to collaborate on projects as requirements engineer, test analyst, test architect or test manager.
 - 📫 How to reach me: https://gravatar.com/mneiferbag 
