@@ -2,4 +2,4 @@
 - 👀 I’m interested in automation, quality assurance, cybersecurity, requirements engineering and artificial intelligence.
 - 🌱 I’m currently learning Robot Framework.
 - 💞️ I’m looking to collaborate on projects as requirements engineer, test analyst, test architect or test manager.
-- 📫 How to reach me: https://www.linkedin.com/in/mneifer/ 
+- 📫 How to reach me: [Discord](https://discord.com/users/1019642880748433449)
