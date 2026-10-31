@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Markus.
 - 👀 I’m interested in automation, quality assurance, cybersecurity, requirements engineering.
-- 🌱 I’m currently learning about DevOps and Platform Engineering.
+- 🌱 I’m currently learning about testing of AI and testing with AI.
 - 💞️ I’m looking to collaborate on projects as requirements engineer, test analyst, test architect or test manager.
 - 📫 How to reach me: [Discord](https://discord.com/users/1019642880748433449)
